@@ -1,0 +1,7 @@
+ID|NAME|TYPE|MATERIALS|PRICE|COLOR|FRETS|STRINGS
+506/d/The ELECTRICAL family/WOOD/12$/pink/2/1/
+----
+247/d/The ELECTRICAL family/WOOD/12$/pink/2/1/
+----
+72/r/The ELECTRICAL family/STEEL/1$/red/2/1/
+----
